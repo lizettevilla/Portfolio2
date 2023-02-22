@@ -1,0 +1,67 @@
+.row {
+  display: flex;
+  margin: 100px;
+}
+
+.column {
+  flex: 50%;
+}
+
+.profile_photo {
+  width: 300px;
+  height: 300px;
+}
+
+.proj-row {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.proj-col-left {
+  flex: 10%
+}
+
+.proj-col-right {
+  flex: 90%;
+  font-size: 25pt;
+}
+
+.proj-col-right p{
+font-size: 15pt;
+}
+
+.projectBox {
+  margin-left: 100px;
+}
+
+section{
+  border-style: solid;
+  border-color: black;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+a {
+  color: steelblue;
+}
+
+input {
+  border: solid;
+  border-color: black;
+}
+
+.columnPara {
+  text-align: center;
+}
